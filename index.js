@@ -1,3 +1,5 @@
 import './design-partern/single'
 import './design-partern/factory'
 import './design-partern/strategy'
+import './design-partern/observer'
+import './design-partern/eventBus'
