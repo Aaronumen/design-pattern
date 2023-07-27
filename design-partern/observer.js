@@ -51,6 +51,4 @@ const t2=new Observer('test2')
 
 Sy.add(t1)
 Sy.add(t2)
-// Sy.remove(t1)
-
 Sy.update()
